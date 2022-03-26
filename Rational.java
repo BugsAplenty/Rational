@@ -1,5 +1,3 @@
-import jdk.jshell.spi.ExecutionControl;
-
 public class Rational {
     private final int denominator;
     private final int numerator;
